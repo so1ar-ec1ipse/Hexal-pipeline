@@ -1,6 +1,6 @@
 
 <div class="footer">
-    Created by @gereleth. <a href="https://github.com/gereleth/hexapipes">GitHub</a>
+    Svelte test app.
   </div>
   
   <style>
