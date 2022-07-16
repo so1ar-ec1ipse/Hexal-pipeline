@@ -2,7 +2,7 @@
 
 This is a little static site for playing the pipes puzzle.
 
-Made with Svelte Kit, currently deployed at [hexal-pipes](https://62d2d820f459cd1b6010d73c--unrivaled-melomakarona-a70223.netlify.app/).
+Made with Svelte Kit, currently deployed at [hexal-pipes](https://62d2dcd994f05f200de819f3--svetle-test-hex-pipes.netlify.app/).
 
 
 TODO:
